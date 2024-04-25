@@ -18,3 +18,6 @@ $ cwd
 Current working directory has been copied to clipboard: C:\Users\tanpero\projects\cwd
 ```
 
+## License
+
+Mozilla Public License
