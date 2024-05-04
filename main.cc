@@ -42,5 +42,9 @@ int main() {
 
     std::cout << "Current working directory has been copied to clipboard: " << currentPath << std::endl;
 
+    HWND consoleWindow = GetConsoleWindow();
+    
+    ShowWindow(consoleWindow, SW_HIDE);
+
     return 0;
 }
